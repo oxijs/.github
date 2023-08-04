@@ -1,12 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1026680546513928265/1137058090982850651/Logo.png?width=1025&height=351" alt="Descripción de la imagen"  width="600">
+  <h1 align="center">Welcome to <a href="https://npmjs.com/package/oxi.js">oxi.js</span></a></h1>
+  <h3 align="center">An aoi.js v5.5.5 based package that updates some important things and adds extra functions.</h3>
+</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [NPM](https://npmjs.com/package/oxi.js)
+- Docs (Coming Soon!)
