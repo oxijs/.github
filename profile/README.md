@@ -4,5 +4,5 @@
   <h3 align="center">An aoi.js v5.5.5 based package that updates some important things and adds extra functions.</h3>
 </p>
 
-- [NPM](https://npmjs.com/package/oxi.js)
-- Docs (Coming Soon!)
+- **[NPM](https://npmjs.com/package/oxi.js)**
+- **[Docs](https://oxi.js.org/)**
